@@ -1,6 +1,6 @@
 # InSync-Mobile-App-UI
 
-![App Screenshot]()
+![App Screenshot](Application/public/images/signIn.png)
 
 
 
